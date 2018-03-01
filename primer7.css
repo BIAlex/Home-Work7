@@ -5,7 +5,7 @@ body{
 	 font-family:Verdana;			
     }
 #container {
-	 width:704px;  	 
+	 width:693.4px;  	 
 	 margin:auto;	 
 	 }
 #header {
@@ -35,9 +35,9 @@ h1 {padding-left:30px;
 	background-repeat:repeat-x;
 	}
 .menu li a:visited {color:#333;}
-.menu li a:hover {color:#333;}
+.menu li a:hover {color:#333;}	
 #content{
-	width:704px;
+	width:693.4px;
 	height:610px;
 	background-color:#fff;
 	float:left;
